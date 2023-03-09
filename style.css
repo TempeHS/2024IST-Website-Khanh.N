@@ -15,3 +15,24 @@ width: 800px;
 margin-right: auto;
 margin-left: auto;
 }
+#Footer { 
+width: 802px ;
+margin-right: auto;
+margin-left: auto;
+height: 50px;
+border: lpx solid #fff;
+}
+
+#FooterLeft { 
+float: left;
+width: 399px; /*49.5%*/
+height: 50px;
+border: lpx solid green;
+}
+
+#FooterRight { 
+float: right;
+width:399px; /*49.5%*/
+height: 50px;
+border: lpx solid red;
+}
